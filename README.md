@@ -1,11 +1,11 @@
 # CleaningData_Final
 Final Project for Coursera Data Science Specialization, Getting and Cleaning Data course
 
-### ==================================================================  
+### ============================================================  
 ### Human Activity Recognition Using Smartphones Dataset  
 ### Updated 19-Jul-2017, by Mark Giroux  
 ###  Contains updates to the original README (original below)  
-### ==================================================================  
+### ============================================================  
 
 ## === Experiment Process : what/how data was collected (from original readme.txt, below) ==== 
 
@@ -37,7 +37,7 @@ Here are the data for the project:
 You should create one R script called run_analysis.R that does the following.
 
 
-## === Data Analysis / Processing : Included Files and descriptions ====
+## === Data Analysis/Processing : Included Files, Descriptions ====
 
 - README.md : [this file] explains the experiment, data analysis, files included.
 
@@ -59,10 +59,10 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 
 # Original README.txt (in full)  
 
-### ==================================================================  
+### ============================================================  
 ### Human Activity Recognition Using Smartphones Dataset  
 ### Version 1.0  
-### ==================================================================  
+### ============================================================  
 ### Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.  
 ### Smartlab - Non Linear Complex Systems Laboratory  
 ### DITEN - Università degli Studi di Genova.  
