@@ -4,7 +4,7 @@ Final Project for Coursera Data Science Specialization, Getting and Cleaning Dat
 ==================================================================  
 Human Activity Recognition Using Smartphones Dataset  
 Updated 19-Jul-2017, by Mark Giroux  
- - Contains updates to the original README (original below)  
+ Contains updates to the original README (original below)  
 ==================================================================  
 
 ### === Experiment Process : what/how data was collected (from original readme.txt, below) ==== 
@@ -48,8 +48,6 @@ You should create one R script called run_analysis.R that does the following.
 - run_analysis.R : contains all the code used to collect, work with, and clean the data set to generate a new tidy data set.
 
 
-
-
 License (from original readme):
 ========
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
@@ -62,15 +60,13 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 
 
 
-
-===========================================  
-Original README.txt (in full)  
+# Original README.txt (in full)  
 ===========================================  
 
-==================================================================  
+---------------------------------------------------------------- 
 Human Activity Recognition Using Smartphones Dataset  
 Version 1.0  
-==================================================================  
+---------------------------------------------------------------- 
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.  
 Smartlab - Non Linear Complex Systems Laboratory  
 DITEN - Università degli Studi di Genova.  
