@@ -4,12 +4,12 @@
 # clear environment
 rm(list=ls())
 
-# Download data
-fitUrl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
-download.file(fitUrl, destfile = "fitdata.zip")
+# Download data  (if not already downloaded, uncomment the below 2 commands)
+# fitUrl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
+# download.file(fitUrl, destfile = "fitdata.zip")
 
-# unzip data
-unzip("fitdata.zip")
+# unzip data (if not already unzipped, uncomment the below command)
+# unzip("fitdata.zip")
 
 
 #1  Merge the training and the test sets to create one data set.
@@ -201,4 +201,4 @@ mean_data <- dcast(data_subset_melt, Subject+Activity ~ variable,mean)
 
 
 #6 Write tidy dataset to file
-write.csv(mean_data, file = "wearable_means.csv")
+write.table(mean_data, file = "wearable_means.txt", row.name=FALSE)
